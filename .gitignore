@@ -1,0 +1,40 @@
+# Python related
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+
+# Virtual environment
+venv/
+.env/
+*.venv
+
+# IDE/editor files
+.vscode/
+.idea/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# PyQt specific
+*.qmlc
+*.qrc
+*.qph
+
+# OpenModelica build files
+*.exe
+*.dll
+*.lib
+*.obj
+*.log
+*.c
+*.o
+*.so
+*.json
+
+# Dependency files
+requirements.txt
